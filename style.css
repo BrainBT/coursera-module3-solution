@@ -1,1 +1,27 @@
+/* Example styles */
+body {
+    padding-top: 50px; /* Space for fixed navbar */
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+/* Optional: Style the navbar background color */
+.navbar {
+    background-color: #333;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav li a {
+    color: white !important;
+}
+
+/* Optional: Add a background color for sections */
+.container > .row > .col-xs-12 {
+    background-color: #e9ecef;
+}
 
